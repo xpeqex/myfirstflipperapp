@@ -1,0 +1,15 @@
+App(
+    appid="skeleton_app",
+    name="PEQE test app",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="main_peqe_app",
+    stack_size=4 * 1024,
+    requires=[
+        "gui",
+    ],
+    order=10,
+    fap_icon="amogus.png",
+    fap_category="Test",
+    fap_icon_assets="assets",
+    fap_description="WTF is this?",
+)
