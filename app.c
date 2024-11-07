@@ -9,7 +9,7 @@
 #include <gui/modules/variable_item_list.h>
 #include <notification/notification.h>
 #include <notification/notification_messages.h>
-#include <skeleton_app_icons.h>
+#include <peqe_app_icons.h>
 
 #define TAG "TestApp"
 

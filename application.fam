@@ -1,5 +1,5 @@
 App(
-    appid="skeleton_app",
+    appid="peqe_app",
     name="PEQE test app",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="main_peqe_app",
